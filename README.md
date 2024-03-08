@@ -3,3 +3,4 @@
 Basics of Langchain
 
 Using Langchain and OpenAI and Google Gemini
+Creating simple AI applications
